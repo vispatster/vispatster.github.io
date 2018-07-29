@@ -1,7 +1,10 @@
 
-{% if site.google_verify %}
+<head>
+    {% if site.google_verify %}
     <meta name="google-site-verification" content="{{ site.google_verify }}">
 {% endif %}
+
+</head>
 
 ### Markdown
 
