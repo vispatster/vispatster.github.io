@@ -1,11 +1,4 @@
 
-<head>
-    {% if site.google_verify %}
-    <meta name="google-site-verification" content="{{ site.google_verify }}">
-{% endif %}
-
-</head>
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
