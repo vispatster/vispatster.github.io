@@ -1,5 +1,7 @@
 
-
+{% if site.google_verify %}
+    <meta name="google-site-verification" content="{{ site.google_verify }}">
+{% endif %}
 
 ### Markdown
 
